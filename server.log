@@ -1,0 +1,54 @@
+[2026-05-04 17:42:46] Client connected: fd=5
+[2026-05-04 17:42:46] Client connected: fd=6
+[2026-05-04 17:42:46] Request: GET /
+[2026-05-04 17:42:46] Served: ../public/index.html
+[2026-05-04 17:42:46] Request: GET /style.css
+[2026-05-04 17:42:46] Served: ../public/style.css
+[2026-05-04 17:42:46] Client connected: fd=7
+[2026-05-04 17:42:46] Request: GET /image.png
+[2026-05-04 17:42:46] Served: ../public/image.png
+[2026-05-04 17:42:46] Client connected: fd=5
+[2026-05-04 17:42:46] Request: GET /script.js
+[2026-05-04 17:42:46] Served: ../public/script.js
+[2026-05-04 17:42:53] Client connected: fd=6
+[2026-05-04 17:42:53] Request: GET /
+[2026-05-04 17:42:53] Served: ../public/index.html
+[2026-05-04 17:42:53] Client connected: fd=5
+[2026-05-04 17:42:53] Request: GET /style.css
+[2026-05-04 17:42:53] Served: ../public/style.css
+[2026-05-04 17:42:53] Client connected: fd=6
+[2026-05-04 17:42:53] Request: GET /image.png
+[2026-05-04 17:42:53] Served: ../public/image.png
+[2026-05-04 17:42:53] Client connected: fd=5
+[2026-05-04 17:42:53] Request: GET /script.js
+[2026-05-04 17:42:53] Served: ../public/script.js
+[2026-05-04 17:44:00] Client connected: fd=6
+[2026-05-04 17:44:00] Client connected: fd=5
+[2026-05-04 17:44:00] Request: GET /
+[2026-05-04 17:44:00] Served: ../public/index.html
+[2026-05-04 17:44:00] Request: GET /style.css
+[2026-05-04 17:44:00] Served: ../public/style.css
+[2026-05-04 18:04:05] Client connected: fd=5
+[2026-05-04 18:04:05] Request: GET /
+[2026-05-04 18:04:05] Served: ../public/index.html
+[2026-05-04 18:04:05] Client connected: fd=6
+[2026-05-04 18:04:05] Request: GET /style.css
+[2026-05-04 18:04:05] Served: ../public/style.css
+[2026-05-04 18:04:05] Client connected: fd=5
+[2026-05-04 18:04:05] Request: GET /test.png
+[2026-05-04 18:04:05] Served: ../public/test.png
+[2026-05-04 18:04:05] Client connected: fd=6
+[2026-05-04 18:04:05] Request: GET /script.js
+[2026-05-04 18:04:05] Served: ../public/script.js
+[2026-05-04 18:04:07] Client connected: fd=5
+[2026-05-04 18:04:07] Request: GET /
+[2026-05-04 18:04:07] Served: ../public/index.html
+[2026-05-04 18:04:07] Client connected: fd=6
+[2026-05-04 18:04:07] Request: GET /style.css
+[2026-05-04 18:04:07] Served: ../public/style.css
+[2026-05-04 18:04:07] Client connected: fd=5
+[2026-05-04 18:04:07] Request: GET /test.png
+[2026-05-04 18:04:07] Served: ../public/test.png
+[2026-05-04 18:04:07] Client connected: fd=6
+[2026-05-04 18:04:07] Request: GET /script.js
+[2026-05-04 18:04:07] Served: ../public/script.js
