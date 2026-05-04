@@ -40,7 +40,6 @@ project/
 │   └── test.jpg
 │
 ├── server.log 
-├── Makefile
 ├── README.md
 └── .gitignore
 ```
@@ -63,8 +62,11 @@ gcc src/server.c -o server -lpthread
 ## 5. Screenshots
 
 
-- Browser output  
-- Logs  
+- ### Browser output
+![Homepage](public/Browser_output.png)
+
+### Logs
+![Logs](public/Logs.png) 
 
 
 ---
